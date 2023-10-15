@@ -3,6 +3,8 @@ Basics about mysql
 create a table like below:
 ![image](https://github.com/MeenakshiNS/MySQL/assets/130451378/ea0b5ac4-51f3-4af0-bec1-d9419b00c463)
 
+
+--------------------STRING FUNCTIONS---------------
 concat
 ![image](https://github.com/MeenakshiNS/MySQL/assets/130451378/b2da924e-5ebf-42de-b711-f0b2d79afd88)
 
