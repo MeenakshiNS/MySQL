@@ -1,0 +1,38 @@
+//SAMPLE DATAS TO STUDY MYSQL
+
+('t-shirt', 'white', 'S', 10),
+('t-shirt', 'green', 'S', 200),
+('polo shirt', 'black', 'M', 10),
+('tank top', 'blue', 'S', 50),
+('t-shirt', 'pink', 'S', 0),
+('polo shirt', 'red', 'M', 5),
+('tank top', 'white', 'S', 200),
+('tank top', 'blue', 'M', 15)
+
+questions:
+1)Create a new database shirts_db
+
+2)Create a new table shirts
+
+3)Get All That Data In There With a single line
+
+4)Add A New Shirt Purple polo shirt, size M last worn 50 days ago
+
+5)SELECT all shirts But Only Print Out Article and Color
+
+6)SELECT all medium shirts Print Out Everything But shirt_id
+
+7)Update all polo shirts Change their size to L
+
+8)Update the shirt last worn 15 days ago Change last_worn to 0
+
+9)Update all white shirts Change size to 'XS' and color to 'off white'
+
+10)Delete all old shirts Last worn 200 days ago
+
+11)Delete all tank tops Your tastes have changed...
+
+12)Delete all shirts
+
+13)Drop the entire shirts table
+
