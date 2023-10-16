@@ -1,4 +1,4 @@
-//SAMPLE DATAS TO STUDY MYSQL
+//🤑SAMPLE DATAS TO STUDY MYSQL
 
 ('t-shirt', 'white', 'S', 10),
 ('t-shirt', 'green', 'S', 200),
@@ -9,7 +9,7 @@
 ('tank top', 'white', 'S', 200),
 ('tank top', 'blue', 'M', 15)
 
-questions:
+🤠questions:
 1)Create a new database shirts_db
 
 2)Create a new table shirts
@@ -44,7 +44,7 @@ questions:
 
 //////////////////////////////////////////////////////////////////
 
-/*STRING FUNCTIONS*/  (use below data to solve problems)
+/*STRING FUNCTIONS*/  🤠(use below data to solve problems)
 
 CREATE TABLE books 
 	(
